@@ -1,0 +1,6 @@
+{
+  "name": "DocuGen SaaS",
+  "description": "A SaaS application for generating legal and contractual documents in bulk from Word templates and user-provided data.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
